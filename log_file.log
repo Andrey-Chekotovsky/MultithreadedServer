@@ -1,0 +1,139 @@
+2023-03-16 10:19:01 INFO  Server:31 - Socket[addr=/127.0.0.1,port=55032,localport=4445]
+2023-03-16 10:19:01 INFO  Server:32 - Clients connected: 1
+2023-03-16 10:19:09 INFO  Server:176 - Client number 0 exited
+17-03-2023 10:30:58 INFO  Server:31 - Socket[addr=/127.0.0.1,port=56542,localport=4445]
+17-03-2023 10:30:58 INFO  Server:32 - Clients connected: 1
+17-03-2023 10:31:06 INFO  Server:167 - Client number 0 checking accessible tours
+17-03-2023 10:32:13 INFO  Server:84 - Client number 0 sent price = 600
+17-03-2023 10:32:13 INFO  Server:88 - Server answer for client number 0: Tropical enigmerence
+Wild life without injuries
+
+17-03-2023 10:32:18 INFO  Server:176 - Client number 0 exited
+17-03-2023 10:37:14 INFO  Server:31 - Socket[addr=/127.0.0.1,port=61373,localport=4445]
+17-03-2023 10:37:14 INFO  Server:32 - Clients connected: 1
+17-03-2023 10:38:24 INFO  Server:31 - Socket[addr=/127.0.0.1,port=62007,localport=4445]
+17-03-2023 10:38:24 INFO  Server:32 - Clients connected: 2
+17-03-2023 10:38:24 INFO  Server:31 - Socket[addr=/127.0.0.1,port=62008,localport=4445]
+17-03-2023 10:38:24 INFO  Server:32 - Clients connected: 3
+17-03-2023 10:41:19 INFO  Server:31 - Socket[addr=/127.0.0.1,port=62961,localport=4445]
+17-03-2023 10:41:19 INFO  Server:32 - Clients connected: 1
+17-03-2023 10:45:28 INFO  Server:31 - Socket[addr=/127.0.0.1,port=63014,localport=4445]
+17-03-2023 10:45:28 INFO  Server:32 - Clients connected: 2
+17-03-2023 10:47:10 INFO  Server:176 - Client number 0 exited
+17-03-2023 11:32:40 INFO  Server:60 - Socket[addr=/127.0.0.1,port=63985,localport=4445]
+17-03-2023 11:32:40 INFO  Server:61 - Clients connected: 1
+17-03-2023 11:32:43 INFO  Server:197 - Client number 0 exited
+17-03-2023 11:37:18 INFO  Server:60 - Socket[addr=/127.0.0.1,port=64017,localport=4445]
+17-03-2023 11:37:18 INFO  Server:61 - Clients connected: 1
+17-03-2023 11:37:21 INFO  Server:197 - Client number 0 exited
+17-03-2023 11:37:24 INFO  Server:60 - Socket[addr=/127.0.0.1,port=64021,localport=4445]
+17-03-2023 11:37:24 INFO  Server:61 - Clients connected: 1
+17-03-2023 11:37:27 INFO  Server:192 - Client number 1 checking info
+17-03-2023 11:37:29 INFO  Server:132 - Client number 1 checks info about e
+17-03-2023 11:37:29 INFO  Server:146 - Server answer for client number 1: Tour with this name doesn't exist
+
+17-03-2023 11:37:36 INFO  Server:197 - Client number 1 exited
+17-03-2023 11:42:10 INFO  Server:60 - Socket[addr=/127.0.0.1,port=64044,localport=4445]
+17-03-2023 11:42:10 INFO  Server:61 - Clients connected: 1
+17-03-2023 11:42:12 INFO  Server:197 - Client number 0 exited
+17-03-2023 11:44:17 INFO  Server:61 - Socket[addr=/127.0.0.1,port=64054,localport=4445]
+17-03-2023 11:44:17 INFO  Server:62 - Clients connected: 1
+17-03-2023 11:44:20 INFO  Server:197 - Client number 0 exited
+17-03-2023 11:45:41 INFO  Server:61 - Socket[addr=/127.0.0.1,port=64063,localport=4445]
+17-03-2023 11:45:41 INFO  Server:62 - Clients connected: 1
+17-03-2023 11:45:43 INFO  Server:197 - Client number 1 exited
+17-03-2023 11:46:40 INFO  Server:61 - Socket[addr=/127.0.0.1,port=64074,localport=4445]
+17-03-2023 11:46:40 INFO  Server:62 - Clients connected: 1
+17-03-2023 11:46:43 INFO  Server:197 - Client number 0 exited
+17-03-2023 11:53:05 INFO  Server:61 - Socket[addr=/127.0.0.1,port=64349,localport=4445]
+17-03-2023 11:53:05 INFO  Server:62 - Clients connected: 1
+17-03-2023 11:53:06 INFO  Server:197 - Client number 0 exited
+17-03-2023 11:54:16 INFO  Server:61 - Socket[addr=/127.0.0.1,port=64398,localport=4445]
+17-03-2023 11:54:16 INFO  Server:62 - Clients connected: 1
+17-03-2023 11:54:18 INFO  Server:197 - Client number 0 exited
+17-03-2023 11:54:49 INFO  Server:62 - Socket[addr=/127.0.0.1,port=64408,localport=4445]
+17-03-2023 11:54:49 INFO  Server:63 - Clients connected: 1
+17-03-2023 11:54:53 INFO  Server:198 - Client number 1 exited
+29-03-2023 09:12:48 INFO  Server:61 - Socket[addr=/127.0.0.1,port=50539,localport=4445]
+29-03-2023 09:12:48 INFO  Server:62 - Clients connected: 1
+29-03-2023 09:12:58 INFO  Server:190 - Client number 2 checking accessible tours
+29-03-2023 09:13:01 INFO  Server:105 - Client number 2 sent price = 600
+29-03-2023 09:13:01 INFO  Server:109 - Server answer for client number 2: Tropical enigmerence
+Wild life without injuries
+
+29-03-2023 09:13:05 INFO  Server:194 - Client number 2 checking info
+29-03-2023 09:13:09 INFO  Server:132 - Client number 2 checks info about У
+29-03-2023 09:13:09 INFO  Server:146 - Server answer for client number 2: Tour with this name doesn't exist
+
+29-03-2023 09:13:23 INFO  Server:132 - Client number 2 checks info about Wild life without injuries
+29-03-2023 09:13:23 INFO  Server:146 - Server answer for client number 2: Name of tour: Wild life without injuries; Price: 599; Dutation: 10 days; Transport: Plane
+
+29-03-2023 09:13:39 INFO  Server:167 - Client number 2 exited
+29-03-2023 09:13:39 INFO  Server:168 - Clients connected: 0
+29-03-2023 09:41:44 INFO  Server:61 - Socket[addr=/127.0.0.1,port=55908,localport=4445]
+29-03-2023 09:41:44 INFO  Server:62 - Clients connected: 1
+29-03-2023 09:42:34 INFO  Server:190 - Client number 3 checking accessible tours
+29-03-2023 09:42:40 INFO  Server:105 - Client number 3 sent price = 660
+29-03-2023 09:42:40 INFO  Server:109 - Server answer for client number 3: Tropical enigmerence
+Wild life without injuries
+
+29-03-2023 09:46:54 INFO  Server:61 - Socket[addr=/127.0.0.1,port=57052,localport=4445]
+29-03-2023 09:46:54 INFO  Server:62 - Clients connected: 2
+29-03-2023 09:46:54 INFO  Server:61 - Socket[addr=/127.0.0.1,port=57053,localport=4445]
+29-03-2023 09:46:54 INFO  Server:62 - Clients connected: 3
+29-03-2023 09:47:54 INFO  Server:167 - Client number 5 exited
+29-03-2023 09:47:54 INFO  Server:168 - Clients connected: 2
+29-03-2023 09:51:30 INFO  Server:167 - Client number 4 exited
+29-03-2023 09:51:30 INFO  Server:168 - Clients connected: 1
+29-03-2023 09:53:27 INFO  Server:167 - Client number 3 exited
+29-03-2023 09:53:27 INFO  Server:168 - Clients connected: 0
+29-03-2023 09:57:25 INFO  Server:61 - Socket[addr=/127.0.0.1,port=59399,localport=4445]
+29-03-2023 09:57:25 INFO  Server:62 - Clients connected: 1
+29-03-2023 09:57:38 INFO  Server:167 - Client number 6 exited
+29-03-2023 09:57:38 INFO  Server:168 - Clients connected: 0
+29-03-2023 09:58:48 INFO  Server:61 - Socket[addr=/127.0.0.1,port=59733,localport=4445]
+29-03-2023 09:58:48 INFO  Server:62 - Clients connected: 1
+29-03-2023 10:00:16 INFO  Server:61 - Socket[addr=/127.0.0.1,port=60063,localport=4445]
+29-03-2023 10:00:16 INFO  Server:62 - Clients connected: 1
+29-03-2023 10:00:22 INFO  Server:61 - Socket[addr=/127.0.0.1,port=60089,localport=4445]
+29-03-2023 10:00:22 INFO  Server:62 - Clients connected: 2
+29-03-2023 10:00:27 INFO  Server:190 - Client number 2 checking accessible tours
+29-03-2023 10:00:29 INFO  Server:105 - Client number 2 sent price = 400
+29-03-2023 10:00:29 INFO  Server:109 - Server answer for client number 2: 
+29-03-2023 10:00:36 INFO  Server:194 - Client number 3 checking info
+29-03-2023 10:00:42 INFO  Server:132 - Client number 3 checks info about 500
+29-03-2023 10:00:42 INFO  Server:146 - Server answer for client number 3: Tour with this name doesn't exist
+
+29-03-2023 10:05:46 ERROR Server:74 - IOExcepton
+29-03-2023 10:05:50 INFO  Server:24 - Socket[addr=/127.0.0.1,port=61313,localport=4445]
+29-03-2023 10:05:50 INFO  Server:24 - Clients connected: 1
+29-03-2023 10:06:21 INFO  Server:24 - Socket[addr=/127.0.0.1,port=61444,localport=4445]
+29-03-2023 10:06:21 INFO  Server:24 - Clients connected: 1
+29-03-2023 10:06:25 INFO  Server:24 - Socket[addr=/127.0.0.1,port=61457,localport=4445]
+29-03-2023 10:06:25 INFO  Server:24 - Clients connected: 2
+29-03-2023 10:06:36 INFO  Server:24 - Client number 2 checking accessible tours
+29-03-2023 10:06:39 INFO  Server:24 - Client number 2 sent price = 600
+29-03-2023 10:06:39 INFO  Server:24 - Server answer for client number 2: Tropical enigmerence
+Wild life without injuries
+
+29-03-2023 10:06:44 INFO  Server:24 - Client number 3 checking info
+29-03-2023 10:06:48 INFO  Server:24 - Client number 3 checks info about 600
+29-03-2023 10:06:48 INFO  Server:24 - Server answer for client number 3: Tour with this name doesn't exist
+
+29-03-2023 10:08:01 INFO  Server:24 - Client number 2 exited
+29-03-2023 10:08:01 INFO  Server:24 - Clients connected: 1
+29-03-2023 10:08:35 INFO  Server:24 - Client number 3 checks info about Tropical enigmerence
+29-03-2023 10:08:35 INFO  Server:24 - Server answer for client number 3: Name of tour: Tropical enigmerence; Price: 499; Dutation: 14 days; Transport: Ship
+
+29-03-2023 10:09:15 INFO  Server:24 - Client number 3 exited
+29-03-2023 10:09:15 INFO  Server:24 - Clients connected: 0
+29-03-2023 10:09:31 INFO  Server:24 - Socket[addr=/127.0.0.1,port=62146,localport=4445]
+29-03-2023 10:09:31 INFO  Server:24 - Clients connected: 1
+29-03-2023 10:09:40 INFO  Server:24 - Client number 4 checking accessible tours
+29-03-2023 10:09:43 INFO  Server:24 - Client number 4 sent price = 700
+29-03-2023 10:09:43 INFO  Server:24 - Server answer for client number 4: Tropical enigmerence
+Wild life without injuries
+Magnifisent caribian journey
+
+29-03-2023 10:10:56 INFO  Server:24 - Client number 4 exited
+29-03-2023 10:10:56 INFO  Server:24 - Clients connected: 0
